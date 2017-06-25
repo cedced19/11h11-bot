@@ -1,0 +1,15 @@
+{
+  "name": "11h11-bot",
+  "version": "0.0.0",
+  "description": "A chatbot to send 1111 when it's 11:11 to a conv.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 11h11-bot.js"
+  },
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "facebook-chat-api": "^1.4.0",
+    "node-schedule": "^1.2.3"
+  }
+}
